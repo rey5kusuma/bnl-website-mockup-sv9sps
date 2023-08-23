@@ -50,7 +50,38 @@ export default function Home() {
           </div>
         </div>
       </div>
-      <div className="grid min-h-[600px] dark:bg-gray-700 text-white mt-8 p-6">
+      <div className="grid min-h-[600px] dark:bg-gray-700 mt-8">
+        <div className="border m-4 flex flex-row items-center justify-center">
+          <div className="w-80 h-4/5 m-4">
+            <div className="w-80 h-72 bg-yellow-600"></div>
+            <button
+              type="button"
+              class="mt-10 focus:outline-none text-white bg-green-900 hover:bg-green-800 focus:ring-4 focus:ring-green-300 font-medium rounded-lg text-sm px-10 py-4 mr-2 mb-2 dark:bg-green-600 dark:hover:bg-green-700 dark:focus:ring-green-800"
+            >
+              More Info
+            </button>
+          </div>
+          <div className="w-80 h-4/5 m-4">
+            <div className="w-80 h-72 bg-yellow-600"></div>
+            <button
+              type="button"
+              class="mt-10 focus:outline-none text-white bg-green-900 hover:bg-green-800 focus:ring-4 focus:ring-green-300 font-medium rounded-lg text-sm px-10 py-4 mr-2 mb-2 dark:bg-green-600 dark:hover:bg-green-700 dark:focus:ring-green-800"
+            >
+              More Info
+            </button>
+          </div>
+          <div className="w-80 h-4/5 m-4">
+            <div className="w-80 h-72 bg-yellow-600"></div>
+            <button
+              type="button"
+              class="mt-10 focus:outline-none text-white bg-green-900 hover:bg-green-800 focus:ring-4 focus:ring-green-300 font-medium rounded-lg text-sm px-10 py-4 mr-2 mb-2 dark:bg-green-600 dark:hover:bg-green-700 dark:focus:ring-green-800"
+            >
+              More Info
+            </button>
+          </div>
+        </div>
+      </div>
+      <div className="grid min-h-[580px] dark:bg-gray-700 text-white mt-8 p-6">
         <div className="flex flex-row">
           <div className="w-120 mt-10">
             <div
