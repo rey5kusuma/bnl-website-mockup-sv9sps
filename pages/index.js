@@ -50,8 +50,22 @@ export default function Home() {
           </div>
         </div>
       </div>
-      <div className="grid min-h-[600px] dark:bg-gray-700 mt-8">
-        <div className="border m-4 flex flex-row items-center justify-center">
+      <div className="grid min-h-[600px] mt-4">
+        <div className="mx-4 mt-4 border p-4">
+          <h1 className="text-dark text-4xl font-bold text-center mb-2">
+            Title of Content
+          </h1>
+          <p className="text-center text-sm">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisl
+            tincidunt eget nullam non. Quis hendrerit dolor magna eget est lorem
+            ipsum dolor sit. Volutpat odio facilisis mauris sit amet massa.
+            Commodo odio aenean sed adipiscing diam donec adipiscing tristique.
+            Mi eget mauris pharetra et. Non tellus orci ac auctor augue. Elit at
+            imperdiet dui accumsan sit
+          </p>
+        </div>
+        <div className="border mx-4 mb-4 flex flex-row items-center justify-center">
           <div className="w-80 h-4/5 m-4">
             <div className="w-80 h-72 bg-yellow-600"></div>
             <button
