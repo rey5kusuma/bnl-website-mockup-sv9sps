@@ -1,5 +1,6 @@
 import MainLayout from '@/components/layouts/mainLayout';
 import Link from 'next/link';
+import Image from 'next/image';
 
 export default function Home() {
   return (
@@ -51,19 +52,10 @@ export default function Home() {
         </div>
       </div>
       <div className="grid min-h-[600px] mt-4">
-        <div className="mx-4 mt-4 border p-4">
+        <div className="mx-4 mt-4 p-2 h-16 border">
           <h1 className="text-dark text-4xl font-bold text-center mb-2">
             Title of Content
           </h1>
-          <p className="text-center text-sm">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisl
-            tincidunt eget nullam non. Quis hendrerit dolor magna eget est lorem
-            ipsum dolor sit. Volutpat odio facilisis mauris sit amet massa.
-            Commodo odio aenean sed adipiscing diam donec adipiscing tristique.
-            Mi eget mauris pharetra et. Non tellus orci ac auctor augue. Elit at
-            imperdiet dui accumsan sit
-          </p>
         </div>
         <div className="border mx-4 mb-4 flex flex-row items-center justify-center">
           <div className="w-80 h-4/5 m-4">
@@ -93,6 +85,101 @@ export default function Home() {
               More Info
             </button>
           </div>
+        </div>
+      </div>
+      <div className="grid min-h-[420px]">
+        <div className="flex flex-row">
+          <div className="m-4" style={{ width: '90vh' }}>
+            <div className="mt-6 ml-10">
+              <h1 className="text-4xl font-bold">
+                Hosting Kualitas Hebat & Terlengkap
+              </h1>
+              <div className="mt-10 flex flex-row">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="25"
+                  height="25"
+                  fill="blue"
+                  class="bi bi-check"
+                  viewBox="0 0 16 16"
+                >
+                  <path d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z" />
+                </svg>
+                <p className="">Miliki hingga 100 website.</p>
+              </div>
+              <div className="mt-6 flex flex-row">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="25"
+                  height="25"
+                  fill="blue"
+                  class="bi bi-check"
+                  viewBox="0 0 16 16"
+                >
+                  <path d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z" />
+                </svg>
+                <p className="">Tersedia nama domain gratis untuk website.</p>
+              </div>
+              <div className="mt-6 flex flex-row">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="25"
+                  height="25"
+                  fill="blue"
+                  class="bi bi-check"
+                  viewBox="0 0 16 16"
+                >
+                  <path d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z" />
+                </svg>
+                <p className="">Hosting dilengkapi email bisnis profesional.</p>
+              </div>
+              <div className="mt-6 flex flex-row">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="25"
+                  height="25"
+                  fill="blue"
+                  class="bi bi-check"
+                  viewBox="0 0 16 16"
+                >
+                  <path d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z" />
+                </svg>
+                <p className="">
+                  Mudah kelola website dengan managed WordPress hosting.
+                </p>
+              </div>
+              <div className="mt-6 flex flex-row">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="25"
+                  height="25"
+                  fill="blue"
+                  class="bi bi-check"
+                  viewBox="0 0 16 16"
+                >
+                  <path d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z" />
+                </svg>
+                <p className="">
+                  Buat website cepat dan mudah dengan Website Builder.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="mt-4" style={{ width: '110vh' }}>
+            <div
+              className="grid min-h-[70vh] w-full place-items-center bg-cover bg-no-repeat mt-2"
+              style={{
+                backgroundImage:
+                  'url(https://www.niagahoster.co.id/_nuxt/images/all-in-one-website-2x-4a3630.webp)',
+                width: '590px',
+              }}
+            ></div>
+          </div>
+        </div>
+      </div>
+      <div className="border grid min-h-[350px] mt-6">
+        <div className="border flex flex-row">
+          <div className="border"></div>
         </div>
       </div>
       <div className="grid min-h-[580px] dark:bg-gray-700 text-white mt-8 p-6">
