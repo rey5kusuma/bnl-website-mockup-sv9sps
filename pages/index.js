@@ -989,7 +989,7 @@ export default function Home() {
           </div>
         </div>
         <div className="h-72 mt-0 mx-4 flex flex-row items-center justify-center">
-          <div className="h-52 m-4 p-4 bg-blue-700" style={{ width: '350px' }}>
+          <div className="h-52 m-4 p-6 bg-blue-700" style={{ width: '350px' }}>
             <div
               className="grid place-items-center bg-cover bg-no-repeat mt-2"
               style={{
@@ -1004,7 +1004,7 @@ export default function Home() {
               malware, virus dan berbagai serangan lainnya.
             </p>
           </div>
-          <div className="h-52 m-4 p-4 bg-blue-700" style={{ width: '350px' }}>
+          <div className="h-52 m-4 p-6 bg-blue-700" style={{ width: '350px' }}>
             <div
               className="grid place-items-center bg-cover bg-no-repeat mt-2"
               style={{
@@ -1019,7 +1019,7 @@ export default function Home() {
               anti DDoS dan proteksi malware.
             </p>
           </div>
-          <div className="h-52 m-4 p-4 bg-blue-700" style={{ width: '350px' }}>
+          <div className="h-52 m-4 p-6 bg-blue-700" style={{ width: '350px' }}>
             <div
               className="grid place-items-center bg-cover bg-no-repeat mt-2"
               style={{
@@ -1033,6 +1033,330 @@ export default function Home() {
               Keamanan hosting Niagahoster terjamin dilengkapi SSL / HTTPS ,
               anti DDoS dan proteksi malware.
             </p>
+          </div>
+        </div>
+      </div>
+      <div className="grid min-h-[420px] mt-20">
+        <div className="flex flex-row">
+          <div className="m-4" style={{ width: '90vh' }}>
+            <div className="mt-6 ml-10 mt-16 mr-8">
+              <h1 className="text-4xl font-bold">
+                Gratis Biaya Pindah Website
+              </h1>
+              <div className="mt-10 flex flex-row">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="25"
+                  height="25"
+                  fill="blue"
+                  class="bi bi-check"
+                  viewBox="0 0 16 16"
+                >
+                  <path d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z" />
+                </svg>
+                <p className="">
+                  Transfer website lebih mudah menggunakan tools migrasi
+                  otomatis.
+                </p>
+              </div>
+              <div className="mt-6 flex flex-row">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="25"
+                  height="25"
+                  fill="blue"
+                  class="bi bi-check"
+                  viewBox="0 0 16 16"
+                >
+                  <path d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z" />
+                </svg>
+                <p className="">Bantuan responsif CS via Live Chat 24/7.</p>
+              </div>
+              <div className="mt-6 flex flex-row">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="25"
+                  height="25"
+                  fill="blue"
+                  class="bi bi-check"
+                  viewBox="0 0 16 16"
+                >
+                  <path d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z" />
+                </svg>
+                <p className="">
+                  Proses transfer website cepat hanya dalam waktu 24 jam.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="mt-4" style={{ width: '110vh' }}>
+            <div
+              className="grid min-h-[70vh] w-full place-items-center bg-cover bg-no-repeat mt-2"
+              style={{
+                backgroundImage:
+                  'url(https://www.niagahoster.co.id/_nuxt/images/free-migration-2x-1bf29d.webp)',
+                width: '590px',
+              }}
+            ></div>
+          </div>
+        </div>
+      </div>
+      <div className="grid min-h-[350px] mt-6">
+        <div className="mx-4 flex flex-row items-center justify-center">
+          <div className="h-60 bg-slate-100 m-6 p-5" style={{ width: '350px' }}>
+            <h1 className="text-4xl font-semibold m-2">Google</h1>
+            <p className="text-sm mt-4 mx-2 mb-2">
+              Well maintained and service for every web developer needs! CS team
+              is super fast and super helpful. Most trusted hosting provider so
+              far :)
+            </p>
+            <div className="flex flex-row mt-6">
+              <div className="mx-2">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="22"
+                  height="22"
+                  fill="yellow"
+                  class="bi bi-star-fill"
+                  viewBox="0 0 16 16"
+                >
+                  <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
+                </svg>
+              </div>
+              <div className="mx-2">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="22"
+                  height="22"
+                  fill="yellow"
+                  class="bi bi-star-fill"
+                  viewBox="0 0 16 16"
+                >
+                  <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
+                </svg>
+              </div>
+              <div className="mx-2">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="22"
+                  height="22"
+                  fill="yellow"
+                  class="bi bi-star-fill"
+                  viewBox="0 0 16 16"
+                >
+                  <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
+                </svg>
+              </div>
+              <div className="mx-2">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="22"
+                  height="22"
+                  fill="yellow"
+                  class="bi bi-star-fill"
+                  viewBox="0 0 16 16"
+                >
+                  <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
+                </svg>
+              </div>
+              <div className="mx-2">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="22"
+                  height="22"
+                  fill="yellow"
+                  class="bi bi-star-fill"
+                  viewBox="0 0 16 16"
+                >
+                  <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
+                </svg>
+              </div>
+              <div className="ml-16 cursor-pointer">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="22"
+                  height="22"
+                  fill="blue"
+                  class="bi bi-chevron-right"
+                  viewBox="0 0 16 16"
+                >
+                  <path
+                    fill-rule="evenodd"
+                    d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z"
+                  />
+                </svg>
+              </div>
+            </div>
+          </div>
+          <div className="h-60 bg-slate-100 m-6 p-5" style={{ width: '350px' }}>
+            <h1 className="text-4xl font-semibold m-2">Google</h1>
+            <p className="text-sm mt-4 mx-2 mb-2">
+              Salah satu penyedia jasa yang selalu saya pakai untuk membangun
+              bisnis client saya. Terimakasih Niagahoster, telah menjadi bagian
+              cerita sukses mereka!
+            </p>
+            <div className="flex flex-row mt-6">
+              <div className="mx-2">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="22"
+                  height="22"
+                  fill="yellow"
+                  class="bi bi-star-fill"
+                  viewBox="0 0 16 16"
+                >
+                  <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
+                </svg>
+              </div>
+              <div className="mx-2">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="22"
+                  height="22"
+                  fill="yellow"
+                  class="bi bi-star-fill"
+                  viewBox="0 0 16 16"
+                >
+                  <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
+                </svg>
+              </div>
+              <div className="mx-2">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="22"
+                  height="22"
+                  fill="yellow"
+                  class="bi bi-star-fill"
+                  viewBox="0 0 16 16"
+                >
+                  <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
+                </svg>
+              </div>
+              <div className="mx-2">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="22"
+                  height="22"
+                  fill="yellow"
+                  class="bi bi-star-fill"
+                  viewBox="0 0 16 16"
+                >
+                  <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
+                </svg>
+              </div>
+              <div className="mx-2">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="22"
+                  height="22"
+                  fill="yellow"
+                  class="bi bi-star-fill"
+                  viewBox="0 0 16 16"
+                >
+                  <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
+                </svg>
+              </div>
+              <div className="ml-16 cursor-pointer">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="22"
+                  height="22"
+                  fill="blue"
+                  class="bi bi-chevron-right"
+                  viewBox="0 0 16 16"
+                >
+                  <path
+                    fill-rule="evenodd"
+                    d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z"
+                  />
+                </svg>
+              </div>
+            </div>
+          </div>
+          <div className="h-60 bg-slate-100 m-6 p-5" style={{ width: '350px' }}>
+            <h1 className="text-4xl font-semibold m-2">Google</h1>
+            <p className="text-sm mt-4 mx-2 mb-2">
+              Niagahoster sangat bagus service dan juga harganya, sesuai dengan
+              yang diharapkan. pokoknya cocok bagi yang mau membangun bisnis
+              berbasis online
+            </p>
+            <div className="flex flex-row mt-6">
+              <div className="mx-2">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="22"
+                  height="22"
+                  fill="yellow"
+                  class="bi bi-star-fill"
+                  viewBox="0 0 16 16"
+                >
+                  <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
+                </svg>
+              </div>
+              <div className="mx-2">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="22"
+                  height="22"
+                  fill="yellow"
+                  class="bi bi-star-fill"
+                  viewBox="0 0 16 16"
+                >
+                  <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
+                </svg>
+              </div>
+              <div className="mx-2">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="22"
+                  height="22"
+                  fill="yellow"
+                  class="bi bi-star-fill"
+                  viewBox="0 0 16 16"
+                >
+                  <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
+                </svg>
+              </div>
+              <div className="mx-2">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="22"
+                  height="22"
+                  fill="yellow"
+                  class="bi bi-star-fill"
+                  viewBox="0 0 16 16"
+                >
+                  <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
+                </svg>
+              </div>
+              <div className="mx-2">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="22"
+                  height="22"
+                  fill="yellow"
+                  class="bi bi-star-fill"
+                  viewBox="0 0 16 16"
+                >
+                  <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
+                </svg>
+              </div>
+              <div className="ml-16 cursor-pointer">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="22"
+                  height="22"
+                  fill="blue"
+                  class="bi bi-chevron-right"
+                  viewBox="0 0 16 16"
+                >
+                  <path
+                    fill-rule="evenodd"
+                    d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z"
+                  />
+                </svg>
+              </div>
+            </div>
           </div>
         </div>
       </div>
