@@ -189,8 +189,8 @@ export default function Home() {
               <div className="mx-2">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
-                  width="20"
-                  height="20"
+                  width="22"
+                  height="22"
                   fill="yellow"
                   class="bi bi-star-fill"
                   viewBox="0 0 16 16"
@@ -201,8 +201,8 @@ export default function Home() {
               <div className="mx-2">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
-                  width="20"
-                  height="20"
+                  width="22"
+                  height="22"
                   fill="yellow"
                   class="bi bi-star-fill"
                   viewBox="0 0 16 16"
@@ -213,8 +213,8 @@ export default function Home() {
               <div className="mx-2">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
-                  width="20"
-                  height="20"
+                  width="22"
+                  height="22"
                   fill="yellow"
                   class="bi bi-star-fill"
                   viewBox="0 0 16 16"
@@ -225,8 +225,8 @@ export default function Home() {
               <div className="mx-2">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
-                  width="20"
-                  height="20"
+                  width="22"
+                  height="22"
                   fill="yellow"
                   class="bi bi-star-fill"
                   viewBox="0 0 16 16"
@@ -237,8 +237,8 @@ export default function Home() {
               <div className="mx-2">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
-                  width="20"
-                  height="20"
+                  width="22"
+                  height="22"
                   fill="yellow"
                   class="bi bi-star-fill"
                   viewBox="0 0 16 16"
@@ -249,8 +249,8 @@ export default function Home() {
               <div className="ml-16 cursor-pointer">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
-                  width="20"
-                  height="20"
+                  width="22"
+                  height="22"
                   fill="blue"
                   class="bi bi-chevron-right"
                   viewBox="0 0 16 16"
@@ -273,8 +273,8 @@ export default function Home() {
               <div className="mx-2">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
-                  width="20"
-                  height="20"
+                  width="22"
+                  height="22"
                   fill="yellow"
                   class="bi bi-star-fill"
                   viewBox="0 0 16 16"
@@ -285,8 +285,8 @@ export default function Home() {
               <div className="mx-2">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
-                  width="20"
-                  height="20"
+                  width="22"
+                  height="22"
                   fill="yellow"
                   class="bi bi-star-fill"
                   viewBox="0 0 16 16"
@@ -297,8 +297,8 @@ export default function Home() {
               <div className="mx-2">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
-                  width="20"
-                  height="20"
+                  width="22"
+                  height="22"
                   fill="yellow"
                   class="bi bi-star-fill"
                   viewBox="0 0 16 16"
@@ -309,8 +309,8 @@ export default function Home() {
               <div className="mx-2">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
-                  width="20"
-                  height="20"
+                  width="22"
+                  height="22"
                   fill="yellow"
                   class="bi bi-star-fill"
                   viewBox="0 0 16 16"
@@ -321,8 +321,8 @@ export default function Home() {
               <div className="mx-2">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
-                  width="20"
-                  height="20"
+                  width="22"
+                  height="22"
                   fill="yellow"
                   class="bi bi-star-fill"
                   viewBox="0 0 16 16"
@@ -333,8 +333,8 @@ export default function Home() {
               <div className="ml-16 cursor-pointer">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
-                  width="20"
-                  height="20"
+                  width="22"
+                  height="22"
                   fill="blue"
                   class="bi bi-chevron-right"
                   viewBox="0 0 16 16"
@@ -358,8 +358,8 @@ export default function Home() {
               <div className="mx-2">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
-                  width="20"
-                  height="20"
+                  width="22"
+                  height="22"
                   fill="yellow"
                   class="bi bi-star-fill"
                   viewBox="0 0 16 16"
@@ -370,8 +370,8 @@ export default function Home() {
               <div className="mx-2">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
-                  width="20"
-                  height="20"
+                  width="22"
+                  height="22"
                   fill="yellow"
                   class="bi bi-star-fill"
                   viewBox="0 0 16 16"
@@ -382,8 +382,8 @@ export default function Home() {
               <div className="mx-2">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
-                  width="20"
-                  height="20"
+                  width="22"
+                  height="22"
                   fill="yellow"
                   class="bi bi-star-fill"
                   viewBox="0 0 16 16"
@@ -394,8 +394,8 @@ export default function Home() {
               <div className="mx-2">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
-                  width="20"
-                  height="20"
+                  width="22"
+                  height="22"
                   fill="yellow"
                   class="bi bi-star-fill"
                   viewBox="0 0 16 16"
@@ -406,8 +406,8 @@ export default function Home() {
               <div className="mx-2">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
-                  width="20"
-                  height="20"
+                  width="22"
+                  height="22"
                   fill="yellow"
                   class="bi bi-star-fill"
                   viewBox="0 0 16 16"
@@ -418,8 +418,8 @@ export default function Home() {
               <div className="ml-16 cursor-pointer">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
-                  width="20"
-                  height="20"
+                  width="22"
+                  height="22"
                   fill="blue"
                   class="bi bi-chevron-right"
                   viewBox="0 0 16 16"
@@ -434,26 +434,121 @@ export default function Home() {
           </div>
         </div>
       </div>
-      <div className="border grid min-h-[780px] mt-6">
-        <div className="border min-h-[550px] m-4">
-          <div className="flex flex-row">
-            <div
-              className="border m-4"
-              style={{ width: '100vh', height: '60vh' }}
-            >
-              gambar
+      <div className="grid bg-gray-50 min-h-[1000px] mt-4">
+        <div className="min-h-[550px] m-4">
+          <div className="flex flex-row mt-16">
+            <div className="mt-4 ml-10" style={{ width: '100vh' }}>
+              <div
+                className="grid min-h-[70vh] w-full place-items-center bg-cover bg-no-repeat mt-2"
+                style={{
+                  backgroundImage:
+                    'url(https://www.niagahoster.co.id/_nuxt/images/maximize-website-speed-2x-c95b04.webp)',
+                  width: '590px',
+                }}
+              ></div>
             </div>
-            <div
-              className="border m-4"
-              style={{ width: '91vh', height: '60vh' }}
-            >
-              teks
+
+            <div className="m-4 p-6" style={{ width: '90vh', height: '65vh' }}>
+              <h1 className="ml-4 mr-6 mt-4 text-4xl font-bold">
+                Akses Website Super Cepat
+              </h1>
+              <div className="ml-4 mt-10 flex flex-row">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="25"
+                  height="25"
+                  fill="blue"
+                  class="bi bi-check"
+                  viewBox="0 0 16 16"
+                >
+                  <path d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z" />
+                </svg>
+                <p className="">
+                  Didukung LiteSpeed Web Server untuk tingkatkan kecepatan
+                  website.
+                </p>
+              </div>
+              <div className="ml-4 mt-6 flex flex-row">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="25"
+                  height="25"
+                  fill="blue"
+                  class="bi bi-check"
+                  viewBox="0 0 16 16"
+                >
+                  <path d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z" />
+                </svg>
+                <p className="">
+                  Performa website optimal & SEO friendly dengan fitur cache
+                  canggih.
+                </p>
+              </div>
+              <div className="ml-4 mt-6 flex flex-row">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="25"
+                  height="25"
+                  fill="blue"
+                  class="bi bi-check"
+                  viewBox="0 0 16 16"
+                >
+                  <path d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z" />
+                </svg>
+                <p className="">
+                  Optimal untuk WordPress! Mengurangi waktu respon web.
+                </p>
+              </div>
             </div>
           </div>
-          <div className="border flex flex-row items-center justify-center mx-4 mt-4">
-            <div className="w-80 h-72 bg-slate-300 m-4"></div>
-            <div className="w-80 h-72 bg-slate-300 m-4"></div>
-            <div className="w-80 h-72 bg-slate-300 m-4"></div>
+          <div className="flex flex-row items-center justify-center mx-4 mt-20">
+            <div className="h-72 bg-slate-300 m-4" style={{ width: '350px' }}>
+              <div
+                className="grid place-items-center bg-cover bg-no-repeat mt-2"
+                style={{
+                  backgroundImage:
+                    'url(https://www.niagahoster.co.id/_nuxt/images/website-planet-dark-2x-91d0c7.webp)',
+                  width: '100px',
+                  height: '30px',
+                }}
+              ></div>
+              <p className="mt-6 text-base">
+                Niagahoster memiliki performa server yang baik. Loading website
+                yang cepat dan server yang stabil. Selain performa, keamanan
+                hosting Niagahoster juga terjamin.
+              </p>
+            </div>
+            <div className="h-72 bg-slate-300 m-4" style={{ width: '350px' }}>
+              <div
+                className="grid place-items-center bg-cover bg-no-repeat mt-2"
+                style={{
+                  backgroundImage:
+                    'url(https://www.niagahoster.co.id/_nuxt/images/bitcatcha-dark-2x-ab9ac3.webp)',
+                  width: '180px',
+                  height: '30px',
+                }}
+              ></div>
+              <p className="mt-6 text-base">
+                Saya melakukan speed test dan hasilnya cepat banget, pengunjung
+                akan merasa puas dan nyaman ketika menjelajahi website Anda.
+                Speed is king on the internet!
+              </p>
+            </div>
+            <div className="h-72 bg-slate-300 m-4" style={{ width: '350px' }}>
+              <div
+                className="grid place-items-center bg-cover bg-no-repeat mt-2"
+                style={{
+                  backgroundImage:
+                    'url(https://www.niagahoster.co.id/_nuxt/images/beritateknologi-dark-2x-d5ed77.webp)',
+                  width: '258px',
+                  height: '30px',
+                }}
+              ></div>
+              <p className="mt-6 text-base">
+                Page load speed sangat cepat, server yang mereka gunakan sangat
+                luar biasa dengan jaminan uptime 99.999%.
+              </p>
+            </div>
           </div>
         </div>
       </div>
