@@ -906,7 +906,7 @@ export default function Home() {
         </div>
       </div>
       <div className="border grid min-h-[880px] mt-2 bg-sky-600">
-        <div className="flex flex-row">
+        <div className="flex flex-col md:flex-row">
           <div className="flex flex-row mt-16">
             <div className="mt-4 ml-10" style={{ width: '100vh' }}>
               <div
