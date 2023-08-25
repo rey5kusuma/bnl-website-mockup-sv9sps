@@ -447,7 +447,6 @@ export default function Home() {
                 }}
               ></div>
             </div>
-
             <div className="m-4 p-6" style={{ width: '90vh', height: '65vh' }}>
               <h1 className="ml-4 mr-6 mt-4 text-4xl font-bold">
                 Akses Website Super Cepat
@@ -625,7 +624,7 @@ export default function Home() {
               domain adalah customer support yang cakap dan fast respon. Dan
               Niaga hoster memiliki hal tersebut!
             </p>
-            <div className="flex flex-row mt-12">
+            <div className="flex flex-row mt-6">
               <div className="mx-2">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -872,6 +871,168 @@ export default function Home() {
                 </svg>
               </div>
             </div>
+          </div>
+        </div>
+      </div>
+      <div className="grid min-h-[350px] mt-6 items-center justify-center">
+        <div
+          className="min-h-[320px] items-center justify-center mt-12"
+          style={{ width: '100vh' }}
+        >
+          <h1 className="text-4xl font-medium text-center">
+            Segera Bergabung dengan 2,002,312 Pemilik Website Lainnya
+          </h1>
+          <div className="grid items-center justify-center mt-16">
+            <button
+              type="button"
+              class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-14 py-4 mr-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800"
+            >
+              Mulai Sekarang
+            </button>
+          </div>
+          <div className="flex flex-row items-center justify-center">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="25"
+              height="25"
+              fill="blue"
+              class="bi bi-check"
+              viewBox="0 0 16 16"
+            >
+              <path d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z" />
+            </svg>
+            <p className="text-xs">Garansi 30 Hari Uang Kembali</p>
+          </div>
+        </div>
+      </div>
+      <div className="border grid min-h-[880px] mt-2 bg-sky-600">
+        <div className="flex flex-row">
+          <div className="flex flex-row mt-16">
+            <div className="mt-4 ml-10" style={{ width: '100vh' }}>
+              <div
+                className="grid min-h-[70vh] w-full place-items-center bg-cover bg-no-repeat mt-2"
+                style={{
+                  backgroundImage:
+                    'url(https://www.niagahoster.co.id/_nuxt/images/advanced-security-features-2x-3e2ccc.webp)',
+                  width: '540px',
+                }}
+              ></div>
+            </div>
+          </div>
+          <div
+            className="ml-10 m-4 p-8"
+            style={{ width: '90vh', height: '65vh' }}
+          >
+            <h1 className="ml-4 mr-6 mt-24 text-4xl font-bold text-white">
+              Hosting dengan Fitur Keamanan Canggih
+            </h1>
+            <div className="ml-4 mt-6 flex flex-row">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="25"
+                height="25"
+                fill="white"
+                class="bi bi-check"
+                viewBox="0 0 16 16"
+              >
+                <path d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z" />
+              </svg>
+              <p className="text-white">
+                SSL untuk mengamankan trafik dan transaksi di website.
+              </p>
+            </div>
+            <div className="ml-4 mt-6 flex flex-row">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="25"
+                height="25"
+                fill="white"
+                class="bi bi-check"
+                viewBox="0 0 16 16"
+              >
+                <path d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z" />
+              </svg>
+              <p className="text-white">
+                Perlindungan Cloudflare dari serangan DDoS berbahaya.
+              </p>
+            </div>
+            <div className="ml-4 mt-6 flex flex-row">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="25"
+                height="25"
+                fill="white"
+                class="bi bi-check"
+                viewBox="0 0 16 16"
+              >
+                <path d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z" />
+              </svg>
+              <p className="text-white">
+                Fitur backup otomatis untuk mencegah kehilangan data.
+              </p>
+            </div>
+            <div className="ml-4 mt-6 flex flex-row">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="25"
+                height="25"
+                fill="white"
+                class="bi bi-check"
+                viewBox="0 0 16 16"
+              >
+                <path d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z" />
+              </svg>
+              <p className="text-white">
+                Uptime 99,9% membuat website Anda online setiap saat.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div className="h-72 mt-0 mx-4 flex flex-row items-center justify-center">
+          <div className="h-52 m-4 p-4 bg-blue-700" style={{ width: '350px' }}>
+            <div
+              className="grid place-items-center bg-cover bg-no-repeat mt-2"
+              style={{
+                backgroundImage:
+                  'url(https://www.niagahoster.co.id/_nuxt/images/bitcatcha-light-2x-38bc37.webp)',
+                width: '100px',
+                height: '30px',
+              }}
+            ></div>
+            <p className="mt-4 text-base text-white">
+              Niagahoster mempunyai keamanan menyeluruh untuk perlindungan dari
+              malware, virus dan berbagai serangan lainnya.
+            </p>
+          </div>
+          <div className="h-52 m-4 p-4 bg-blue-700" style={{ width: '350px' }}>
+            <div
+              className="grid place-items-center bg-cover bg-no-repeat mt-2"
+              style={{
+                backgroundImage:
+                  'url(https://www.niagahoster.co.id/_nuxt/images/website-planet-light-2x-a322f7.webp)',
+                width: '100px',
+                height: '30px',
+              }}
+            ></div>
+            <p className="mt-4 text-base text-white">
+              Keamanan hosting Niagahoster terjamin dilengkapi SSL / HTTPS ,
+              anti DDoS dan proteksi malware.
+            </p>
+          </div>
+          <div className="h-52 m-4 p-4 bg-blue-700" style={{ width: '350px' }}>
+            <div
+              className="grid place-items-center bg-cover bg-no-repeat mt-2"
+              style={{
+                backgroundImage:
+                  'url(https://www.niagahoster.co.id/_nuxt/images/seniberpikir-light-2x-f8ad90.webp)',
+                width: '200px',
+                height: '30px',
+              }}
+            ></div>
+            <p className="mt-4 text-base text-white">
+              Keamanan hosting Niagahoster terjamin dilengkapi SSL / HTTPS ,
+              anti DDoS dan proteksi malware.
+            </p>
           </div>
         </div>
       </div>
