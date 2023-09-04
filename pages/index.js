@@ -52,38 +52,29 @@ export default function Home() {
         </div>
       </div>
       <div className="min-h-[600px] mt-8">
-        <div className="mx-4 mt-4 p-2 h-16">
+        <div className="mx-4 m-8 p-2 h-16">
           <h1 className="text-dark text-4xl font-bold text-center">
-            Title of Content
+            Web Builder Hemat dan Hebat
           </h1>
+          <p className="text-center m-8">
+            Fitur website builder terlengkap dengan web hosting dan domain
+            gratis. Plus, garansi 30 hari uang kembali.
+          </p>
         </div>
-        <div className="mx-4 mt-4 flex flex-row items-center justify-center">
-          <div className="w-80 h-4/5 m-4">
-            <div className="w-80 h-72 bg-yellow-600"></div>
-            <button
-              type="button"
-              class="mt-10 focus:outline-none text-white bg-green-900 hover:bg-green-800 focus:ring-4 focus:ring-green-300 font-medium rounded-lg text-sm px-10 py-4 mr-2 mb-2 dark:bg-green-600 dark:hover:bg-green-700 dark:focus:ring-green-800"
-            >
-              More Info
-            </button>
-          </div>
-          <div className="w-80 h-4/5 m-4">
-            <div className="w-80 h-72 bg-yellow-600"></div>
-            <button
-              type="button"
-              class="mt-10 focus:outline-none text-white bg-green-900 hover:bg-green-800 focus:ring-4 focus:ring-green-300 font-medium rounded-lg text-sm px-10 py-4 mr-2 mb-2 dark:bg-green-600 dark:hover:bg-green-700 dark:focus:ring-green-800"
-            >
-              More Info
-            </button>
-          </div>
-          <div className="w-80 h-4/5 m-4">
-            <div className="w-80 h-72 bg-yellow-600"></div>
-            <button
-              type="button"
-              class="mt-10 focus:outline-none text-white bg-green-900 hover:bg-green-800 focus:ring-4 focus:ring-green-300 font-medium rounded-lg text-sm px-10 py-4 mr-2 mb-2 dark:bg-green-600 dark:hover:bg-green-700 dark:focus:ring-green-800"
-            >
-              More Info
-            </button>
+        <div className="border mx-32 mt-20 grid min-h-[400px]">
+          <div className="flex flex-row items-center justify-center">
+            <div
+              className="h-96 bg-slate-300 p-5"
+              style={{ width: '336px' }}
+            ></div>
+            <div
+              className="h-96 bg-slate-300 mx-4 p-5"
+              style={{ width: '336px' }}
+            ></div>
+            <div
+              className="h-96 bg-slate-300 p-5"
+              style={{ width: '336px' }}
+            ></div>
           </div>
         </div>
       </div>
