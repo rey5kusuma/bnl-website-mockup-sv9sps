@@ -57,7 +57,7 @@ export default function Home() {
             Pilih Paket Hosting Sesuai Kebutuhan Anda
           </h1>
         </div>
-        <div className="border mx-32 mt-16 grid min-h-[600px]">
+        <div className="mx-32 mt-16 grid min-h-[600px]">
           <div className="flex flex-row mt-4 justify-center">
             <div
               className="border rounded-lg h-full p-8"
@@ -147,14 +147,16 @@ export default function Home() {
               className="border rounded-lg h-full p-8"
               style={{ width: '336px' }}
             >
-              <h1 className="text-2xl font-semibold text-center">Cloud Startup</h1>
+              <h1 className="text-2xl font-semibold text-center">
+                Cloud Startup
+              </h1>
               <p className="text-center text-sm mt-2">
-              Performa website yang lebih optimal & dedicated resource
+                Performa website yang lebih optimal & dedicated resource
               </p>
               <div className="flex flex-row mt-8 place-items-center justify-center">
                 <s className="text-gray-400">Rp349.000</s>
                 <p className="bg-blue-100 px-2.5 py-1.5 rounded-xl font-bold text-sm ml-2 decoration-blue-200 text-blue-800">
-                Diskon 57%
+                  Diskon 57%
                 </p>
               </div>
               <p className="mt-4 text-center">
@@ -181,10 +183,7 @@ export default function Home() {
                   Pilih Paket
                 </button>
                 <p className="text-sm">
-                Rp
-199.000
-/bln
- saat perpanjang layanan
+                  Rp 199.000 /bln saat perpanjang layanan
                 </p>
               </div>
             </div>
