@@ -51,22 +51,37 @@ export default function Home() {
           </div>
         </div>
       </div>
-      <div className="min-h-[600px] mt-8">
+      <div className="min-h-[800px] mt-8">
         <div className="mx-4 m-8 p-2 h-16">
-          <h1 className="text-dark text-4xl font-bold text-center">
-            Web Builder Hemat dan Hebat
+          <h1 className="text-dark mt-4 text-4xl font-bold text-center">
+            Pilih Paket Hosting Sesuai Kebutuhan Anda
           </h1>
-          <p className="text-center m-8">
-            Fitur website builder terlengkap dengan web hosting dan domain
-            gratis. Plus, garansi 30 hari uang kembali.
-          </p>
         </div>
-        <div className="border mx-32 mt-20 grid min-h-[400px]">
-          <div className="flex flex-row items-center justify-center">
-            <div
-              className="h-96 bg-slate-300 p-5"
-              style={{ width: '336px' }}
-            ></div>
+        <div className="border mx-32 mt-16 grid min-h-[600px]">
+          <div className="flex flex-row mt-4 justify-center">
+            <div className="h-96 bg-slate-300 p-5" style={{ width: '336px' }}>
+              <h1>Premium</h1>
+              <p>Cocok untuk personal branding atau blog Anda</p>
+              <div>
+                <s>109.900</s>
+                <p>Diskon 77%</p>
+              </div>
+              <div>
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="16"
+                  height="16"
+                  fill="currentColor"
+                  class="bi bi-plus"
+                  viewBox="0 0 16 16"
+                >
+                  <path d="M8 4a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3A.5.5 0 0 1 8 4z" />
+                </svg>
+                <p>Gratis 3 Bulan</p>
+              </div>
+              button
+              <p>Rp 49.900 /bln saat perpanjang layanan</p>
+            </div>
             <div
               className="h-96 bg-slate-300 mx-4 p-5"
               style={{ width: '336px' }}
