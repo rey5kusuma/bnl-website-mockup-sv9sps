@@ -59,18 +59,28 @@ export default function Home() {
         </div>
         <div className="border mx-32 mt-16 grid min-h-[600px]">
           <div className="flex flex-row mt-4 justify-center">
-            <div className="h-96 bg-slate-300 p-5" style={{ width: '336px' }}>
-              <h1>Premium</h1>
-              <p>Cocok untuk personal branding atau blog Anda</p>
-              <div>
-                <s>109.900</s>
-                <p>Diskon 77%</p>
+            <div
+              className="border rounded-lg h-full p-8"
+              style={{ width: '336px' }}
+            >
+              <h1 className="text-2xl font-semibold text-center">Premium</h1>
+              <p className="text-center text-sm mt-2">
+                Cocok untuk personal branding atau blog Anda
+              </p>
+              <div className="flex flex-row mt-8 place-items-center justify-center">
+                <s className="text-gray-400">Rp109.900</s>
+                <p className="bg-blue-100 px-2.5 py-1.5 rounded-xl font-bold text-sm ml-2 decoration-blue-200 text-blue-800">
+                  Diskon 77%
+                </p>
               </div>
-              <div>
+              <p className="mt-4 text-center">
+                Rp<b className="text-5xl">24.990</b>/bln
+              </p>
+              <div className="flex flex-row place-items-center justify-center my-4 text-cyan-600 font-bold text-lg">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
-                  width="16"
-                  height="16"
+                  width="20"
+                  height="20"
                   fill="currentColor"
                   class="bi bi-plus"
                   viewBox="0 0 16 16"
@@ -79,17 +89,105 @@ export default function Home() {
                 </svg>
                 <p>Gratis 3 Bulan</p>
               </div>
-              button
-              <p>Rp 49.900 /bln saat perpanjang layanan</p>
+              <div className="place-items-center justify-center">
+                <button
+                  type="button"
+                  class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-m px-20 py-2.5 mr-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800"
+                >
+                  Pilih Paket
+                </button>
+                <p className="text-sm">
+                  Rp 49.900 /bln saat perpanjang layanan
+                </p>
+              </div>
             </div>
             <div
-              className="h-96 bg-slate-300 mx-4 p-5"
+              className="border rounded-lg h-full p-8 mx-6"
               style={{ width: '336px' }}
-            ></div>
+            >
+              <h1 className="text-2xl font-semibold text-center">Business</h1>
+              <p className="text-center text-sm mt-2">
+                Paket lengkap untuk bisnis, portal berita, atau toko online
+              </p>
+              <div className="flex flex-row mt-8 place-items-center justify-center">
+                <s className="text-gray-400">Rp119.900</s>
+                <p className="bg-blue-100 px-2.5 py-1.5 rounded-xl font-bold text-sm ml-2 decoration-blue-200 text-blue-800">
+                  Diskon 62%
+                </p>
+              </div>
+              <p className="mt-4 text-center">
+                Rp<b className="text-5xl">45.900</b>/bln
+              </p>
+              <div className="flex flex-row place-items-center justify-center my-4 text-cyan-600 font-bold text-lg">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="20"
+                  height="20"
+                  fill="currentColor"
+                  class="bi bi-plus"
+                  viewBox="0 0 16 16"
+                >
+                  <path d="M8 4a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3A.5.5 0 0 1 8 4z" />
+                </svg>
+                <p>Gratis 3 Bulan</p>
+              </div>
+              <div className="place-items-center justify-center">
+                <button
+                  type="button"
+                  class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-m px-20 py-2.5 mr-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800"
+                >
+                  Pilih Paket
+                </button>
+                <p className="text-sm">
+                  Rp 93.900 /bln saat perpanjang layanan
+                </p>
+              </div>
+            </div>
             <div
-              className="h-96 bg-slate-300 p-5"
+              className="border rounded-lg h-full p-8"
               style={{ width: '336px' }}
-            ></div>
+            >
+              <h1 className="text-2xl font-semibold text-center">Cloud Startup</h1>
+              <p className="text-center text-sm mt-2">
+              Performa website yang lebih optimal & dedicated resource
+              </p>
+              <div className="flex flex-row mt-8 place-items-center justify-center">
+                <s className="text-gray-400">Rp349.000</s>
+                <p className="bg-blue-100 px-2.5 py-1.5 rounded-xl font-bold text-sm ml-2 decoration-blue-200 text-blue-800">
+                Diskon 57%
+                </p>
+              </div>
+              <p className="mt-4 text-center">
+                Rp<b className="text-5xl">150.000</b>/bln
+              </p>
+              <div className="flex flex-row place-items-center justify-center my-4 text-cyan-600 font-bold text-lg">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="20"
+                  height="20"
+                  fill="currentColor"
+                  class="bi bi-plus"
+                  viewBox="0 0 16 16"
+                >
+                  <path d="M8 4a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3A.5.5 0 0 1 8 4z" />
+                </svg>
+                <p>Gratis 3 Bulan</p>
+              </div>
+              <div className="place-items-center justify-center">
+                <button
+                  type="button"
+                  class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-m px-20 py-2.5 mr-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800"
+                >
+                  Pilih Paket
+                </button>
+                <p className="text-sm">
+                Rp
+199.000
+/bln
+ saat perpanjang layanan
+                </p>
+              </div>
+            </div>
           </div>
         </div>
       </div>
