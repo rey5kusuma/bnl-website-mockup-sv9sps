@@ -14,7 +14,7 @@ export default function Home() {
       >
         <div className="py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16">
           <h1 className="mb-4 text-4xl font-extrabold tracking-tight leading-none text-blue-600 md:text-5xl lg:text-6xl dark:text-blue">
-            We invest in the world’s potential
+            We invest in the world’s potential test
           </h1>
           <p className="mb-8 text-lg font-normal text-white-300 lg:text-xl sm:px-16 lg:px-48 text-white">
             Here at Flowbite we focus on markets where technology, innovation,
